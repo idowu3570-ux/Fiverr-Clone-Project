@@ -1897,4 +1897,10 @@ body a:visited {
     .final-wrap .final-contain .f-cont ul {
         flex-wrap: wrap;
     }
+
+    .sec-blck2 .input-cont{
+        .search{
+            display: none;
+        }
+    }
 }
